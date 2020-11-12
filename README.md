@@ -58,8 +58,9 @@ The next step is to do the code. I am using Python on VSCode, but it can also be
    survived_sex.columns=['dead', 'survived']
    ```
    If we print `survived_sex`, we can see that for each gender, there will be values of the survived ones and the dead ones.
-   ### ![1605170036824](https://user-images.githubusercontent.com/72293844/98915466-86fcb900-24fc-11eb-8454-d005c4a8df83.jpg)
-   
+   <p align="center">
+      <src = ![1605170036824](https://user-images.githubusercontent.com/72293844/98915466-86fcb900-24fc-11eb-8454-d005c4a8df83.jpg)>
+   </p>
    
    
    
