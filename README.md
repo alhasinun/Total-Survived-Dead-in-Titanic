@@ -11,4 +11,4 @@ Here are the steps to do that.
 1. Download passengers data
    The first step is to download the data. I obtained the data from https://www.kaggle.com/c/titanic/data named 'train.csv'. The data itself contains a table of    passengers that went on Titanic, and also the binary indicator whether they survived or not, with 1 means that they survived and 0 means that they died.
    Here is what the data looks like:
-   
+   ![Alt text](C:/Users/user/Downloads/1605165224373.jpg?raw=true "Title")
